@@ -1,0 +1,60 @@
+# Roselia – THRONE OF ROSE
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.66] Oppressive air heavy and noxious
+[00:05.85] Volcanic out pour roars from the heaving angered ancient earth
+[00:11.35] Storm of spirits raging
+[00:15.50] Corrosion eats away oxidizing mentally
+[00:34.50] 
+[00:20.06] When they would call to us
+[00:21.70] When they would beckon us
+[00:24.19] We would deliver them
+[00:26.86] We would make them whole again
+[00:41.86] 
+[00:28.78] When they would see the lies
+[00:31.57] When they would see this world
+[00:33.42] In glorious anger would rise again
+[00:37.12] In reclamation
+[00:38.67] Keeper of all chaos uncontrolled
+[00:42.96] Bringers of truth embody me
+[00:48.04] Speaker of ends wipe the slate again
+[01:06.04] 
+[00:52.46] Turn man against his brother in deceit
+[00:56.91] Old ones return to the light
+[01:02.16] Come the inception of the end
+[01:06.48] Old ones suspended beyond sight
+[01:11.06] Crack the earth sphere open
+[01:24.56] 
+[01:13.25] To doom all will descend
+[01:15.83] Ominous and obscure, carnivorous and monstrous
+[01:20.24] Hideous and slithering, dead to eyes but ever dreaming
+[01:24.80] Behind the stars at high, below the stirring sea
+[01:48.80] 
+[01:29.28] Arise and claim your throne of lunacy
+[01:47.78] 
+[02:16.84] They would reach to us
+[02:18.89] They would summon us
+[02:21.43] Voices transcend in dream
+[02:23.68] Echo Cthulhu's screams
+[02:26.31] They do see the lies
+[02:28.26] They do see this world
+[02:39.26] 
+[02:31.05] They'll part the seas
+[02:31.86] In utter pandemonium
+[02:35.43] Old ones return to the light
+[02:39.75] Come the inception of the end
+[02:44.43] Old ones suspended beyond sight
+[02:59.93] 
+[02:49.32] Crack the earth sphere open
+[02:51.24] To doom all will descend
+[02:54.30] Ominous and obscure, carnivorous and monstrous
+[02:58.30] Hideous and slithering, dead to eyes but ever dreaming
+[03:03.41] Behind the stars at high, below the stirring sea
+[03:07.72] Arise and claim your throne of lunacy
+[03:12.83] Treacherous and impure, impious and murderous
+[03:17.09] Cadaverous yet living, dead to eyes but ever dreaming
+[03:22.48] Beyond the galaxies, below the ocean deep
+[03:26.27] Arise and claim your throne of lunacy
+```
