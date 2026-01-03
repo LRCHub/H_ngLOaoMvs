@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "THRONE OF ROSE",
+  "base_artist": "Roselia",
+  "createdAt": "2026-01-03T06:09:26.512486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "THRONE OF ROSE",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/01_THRONE_OF_ROSE_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Throne Of Blood (The Jump Off)",
+      "artist": "The Dead Science",
+      "has_synced": false,
+      "path": "select/02_Throne_Of_Blood_(The_Jump_Off)_The_Dead_Science.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Starfire Burning Upon the Ice-Veiled Throne of Ultima Thule",
+      "artist": "Bal-Sagoth",
+      "has_synced": false,
+      "path": "select/03_Starfire_Burning_Upon_the_Ice-Veiled_Throne_of_Ultima_Thule_Bal-Sagoth.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Throne of Ice",
+      "artist": "Before the Dawn",
+      "has_synced": true,
+      "path": "select/04_Throne_of_Ice_Before_the_Dawn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Throne of Ice",
+      "artist": "Luca Turilli",
+      "has_synced": true,
+      "path": "select/05_Throne_of_Ice_Luca_Turilli.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Throne of the Dawn (Live in Wacken 2016)",
+      "artist": "Unisonic",
+      "has_synced": false,
+      "path": "select/06_Throne_of_the_Dawn_(Live_in_Wacken_2016)_Unisonic.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Throne of Thorns",
+      "artist": "Testament",
+      "has_synced": true,
+      "path": "select/07_Throne_of_Thorns_Testament.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Throne of Thorns (Extended Version)",
+      "artist": "Testament",
+      "has_synced": true,
+      "path": "select/08_Throne_of_Thorns_(Extended_Version)_Testament.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Throne Of Thorns (Extended)",
+      "artist": "Testament",
+      "has_synced": true,
+      "path": "select/09_Throne_Of_Thorns_(Extended)_Testament.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blessings Upon the Throne of Tyranny",
+      "artist": "Dimmu Borgir",
+      "has_synced": true,
+      "path": "select/10_Blessings_Upon_the_Throne_of_Tyranny_Dimmu_Borgir.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Throne of Worms",
+      "artist": "Lorna Shore",
+      "has_synced": true,
+      "path": "select/11_Throne_of_Worms_Lorna_Shore.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Throne Of China",
+      "artist": "Dynazty",
+      "has_synced": true,
+      "path": "select/12_Throne_Of_China_Dynazty.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Throne Of The Dawn",
+      "artist": "Unisonic",
+      "has_synced": true,
+      "path": "select/13_Throne_Of_The_Dawn_Unisonic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Throne of Damnation",
+      "artist": "Blood Red Throne",
+      "has_synced": false,
+      "path": "select/14_Throne_of_Damnation_Blood_Red_Throne.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "To the Throne of Sorrow",
+      "artist": "Kataklysm",
+      "has_synced": false,
+      "path": "select/15_To_the_Throne_of_Sorrow_Kataklysm.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Throne of Kings",
+      "artist": "Psycroptic",
+      "has_synced": true,
+      "path": "select/16_The_Throne_of_Kings_Psycroptic.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Throne Of Lunacy",
+      "artist": "The Black Dahlia Murder",
+      "has_synced": true,
+      "path": "select/17_Throne_Of_Lunacy_The_Black_Dahlia_Murder.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THRONE OF ROSE",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_THRONE_OF_ROSE_Roselia.txt"
+    }
+  ]
+}
